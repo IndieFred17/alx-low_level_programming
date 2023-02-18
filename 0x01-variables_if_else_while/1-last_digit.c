@@ -4,7 +4,8 @@
 #include <stdio.h>
 /* betty style doc for function main goes there */
 /**
- * main - main function
+ * main - Print the last digit of a random number created
+ * and if it is greater than 5, less than 6, or 0
  *
  * Return: always 0
  */
